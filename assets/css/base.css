@@ -1,0 +1,48 @@
+:root{
+    --black-color: #000;
+    --white-color: #fff;
+    --text-color: #555555;
+    --blue-color: #14b9d5;
+    --red-color: #f76570;
+    --green-color: #1bbc9b;
+    --orangi-color: #f3a46b;
+    --yellow-color: #ffd205;
+    --purpose-color: #ba71da;
+
+    --width-ul: 190px;
+    --background-color-hover: rgb(249, 249, 249);
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.space{
+    margin: 28px 0;
+}
+
+.height-32{
+    height: 42px;
+}
+
+.margin-tb-12{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.margin-tb-24{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.pad-0{
+    padding: 0 !important;
+}
